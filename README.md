@@ -181,6 +181,7 @@ You can also add your own examples to the projects after you have completed them
 - [Git Ignore Generator](https://www.toptal.com/developers/gitignore)
 - [CORS-Tester](https://cors-error.dev/cors-tester/)
 - [TempMail10min](https://temp-mail10min.online/) - Free disposable temporary email generator for testing signup and authentication flows with 5-30 minute inboxes.
+- [nextjs-waitlist-double-opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) - Reference waitlist app with double opt-in emails, a referral queue and a launch email.
 
 ### Roadmaps 🗺️
 
